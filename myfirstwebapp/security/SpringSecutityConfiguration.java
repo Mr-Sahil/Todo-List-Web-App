@@ -25,8 +25,7 @@ public class SpringSecutityConfiguration {
 //	InMemoryUserDetailsManager
 //	InMemoryUserDetailsManager(UserDetails... users)
 //	User is a class, it is a builder we can use it to build password
-	
-	
+
 	
 	@Bean
 	public InMemoryUserDetailsManager createUserDetailsManager() {
