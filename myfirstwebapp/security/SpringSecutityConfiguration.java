@@ -19,7 +19,6 @@ import org.springframework.security.web.SecurityFilterChain;
 public class SpringSecutityConfiguration {
 
 
-
 //	whenever we want to store username and password we use LDAP or Database
 //	In Memory makes things simple
 	
